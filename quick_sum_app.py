@@ -1,11 +1,4 @@
-# This Python file uses the following encoding: utf-8
 
-"""
-QuickSum - a fast way to add up, with busy teachers in mind...
-Original version: iOS app 2005
-Ported to Kivy: Oct 2015
-(c) 2015 Jason Holdsworth
-"""
 
 from math import modf
 from kivy.app import App
@@ -13,7 +6,7 @@ from kivy.lang import Builder
 from kivy.core.window import Window
 from kivy.properties import NumericProperty
 
-__author__ = 'Jason'
+__author__ = 'Owen'
 
 
 class QuickSum(App):
