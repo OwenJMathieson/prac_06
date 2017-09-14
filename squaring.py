@@ -4,7 +4,7 @@ from kivy.app import App
 from kivy.lang import Builder
 from kivy.core.window import Window
 
-__author__ = 'Lindsay Ward'
+__author__ = 'Owen Mathieson'
 
 
 class SquareNumberApp(App):
